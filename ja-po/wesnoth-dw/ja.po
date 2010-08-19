@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Wesnoth - Dead Water\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-08-13 11:31+0200\n"
-"PO-Revision-Date: 2010-08-19 22:54+0900\n"
+"PO-Revision-Date: 2010-08-20 01:47+0900\n"
 "Last-Translator: IWAI Masaharu <iwaim.sub@gmail.com>\n"
 "Language-Team: Japanese <iwaim.sub+wesnoth@gmail.com>\n"
 "Language: \n"
@@ -554,7 +554,7 @@ msgstr "そんな馬鹿な！"
 #. [unit]: type=Vampire Bat, id=Friendly Bat
 #: data/campaigns/Dead_Water/scenarios/02_Flight.cfg:454
 msgid "Friendly Bat"
-msgstr ""
+msgstr "人懐っこいコウモリ"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Dead_Water/scenarios/02_Flight.cfg:470
@@ -644,12 +644,12 @@ msgstr ""
 #. [scenario]: id=03_Wolf_Coast
 #: data/campaigns/Dead_Water/scenarios/03_Wolf_Coast.cfg:13
 msgid "Wolf Coast"
-msgstr ""
+msgstr "オオカミ海岸"
 
 #. [part]
 #: data/campaigns/Dead_Water/scenarios/03_Wolf_Coast.cfg:20
 msgid "Distrustful of the open ocean, Kai Krellis led his people up the coast."
-msgstr ""
+msgstr "ひらけた海洋に不信感を抱きながらも、Kai Krellis は彼の民を海岸に導きました。"
 
 #. [part]
 #: data/campaigns/Dead_Water/scenarios/03_Wolf_Coast.cfg:24
@@ -659,7 +659,7 @@ msgid ""
 "orcs of Tirigaz, chastened by Kai Laudiss's victory, might have decided not "
 "to bother the merfolk, but these goblins were bandits and outcasts even to "
 "their own kind."
-msgstr ""
+msgstr "戦の匂いをかぎつけてきたオオカミに遭遇したとき、彼らはちょうど長い旅をはじめようとしたところでした。多くのオオカミの背にはゴブリンが乗っていました。Kai Laudiss の勝利のために罰せられた Tirigaz のオークはマーフォークに手を出さないと決めたのかも知れませんが、ゴブリンたちは自身の種族と同様に山賊や浮浪者となっていました。"
 
 #. [side]: id=Gashnok, type=Goblin Knight, type=Goblin Knight, type=Direwolf Rider, type=Direwolf Rider
 #: data/campaigns/Dead_Water/scenarios/03_Wolf_Coast.cfg:86
@@ -669,7 +669,7 @@ msgstr ""
 #. [side]: id=Gashnok, type=Goblin Knight, type=Goblin Knight, type=Direwolf Rider, type=Direwolf Rider
 #: data/campaigns/Dead_Water/scenarios/03_Wolf_Coast.cfg:90
 msgid "Gashnok"
-msgstr ""
+msgstr "Gashnok"
 
 #. [side]
 #: data/campaigns/Dead_Water/scenarios/03_Wolf_Coast.cfg:141
@@ -679,24 +679,24 @@ msgstr ""
 #. [unit]: type=Goblin Knight, id=Vrunt
 #: data/campaigns/Dead_Water/scenarios/03_Wolf_Coast.cfg:192
 msgid "Vrunt"
-msgstr ""
+msgstr "Vrunt"
 
 #. [message]: speaker=Vrunt
 #: data/campaigns/Dead_Water/scenarios/03_Wolf_Coast.cfg:202
 msgid "Let's hope those wild wolves don't get to the feast before we do."
-msgstr ""
+msgstr "俺たちより前にオオカミどもがこのご馳走を平らげてしまわないように祈るぞ。"
 
 #. [message]: speaker=Gashnok
 #: data/campaigns/Dead_Water/scenarios/03_Wolf_Coast.cfg:207
 msgid ""
 "Hold on...It looks like a feast is coming our way! Fresh fish, boys! Go get "
 "it."
-msgstr ""
+msgstr "待て……ご馳走が俺たちの方に向かってくるぞ！新鮮な魚、子供！狩りの時間だ。"
 
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/03_Wolf_Coast.cfg:212
 msgid "Beware, people!"
-msgstr ""
+msgstr "民よ、気をつけるんだ！"
 
 #. [message]: speaker=Friendly Bat
 #: data/campaigns/Dead_Water/scenarios/03_Wolf_Coast.cfg:235
@@ -706,24 +706,24 @@ msgstr ""
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/03_Wolf_Coast.cfg:240
 msgid "Someone go find out what is exciting the bat."
-msgstr ""
+msgstr "コウモリが興奮しているぞ、誰がそこに調査に行け。"
 
 #. [message]: speaker=$unit.id
 #: data/campaigns/Dead_Water/scenarios/03_Wolf_Coast.cfg:274
 msgid "There is something sticking out of the mud here. Ah! I got it."
-msgstr ""
+msgstr "何かかここの泥に突き刺さっている。ああ！引き抜けたぞ。"
 
 #. [message]: speaker=Cylanna
 #: data/campaigns/Dead_Water/scenarios/03_Wolf_Coast.cfg:281
 msgid ""
 "I know what that is. It's a storm trident. It is supposed to let you control "
 "the lightning."
-msgstr ""
+msgstr "私はそれが何か知っています。それはストームトライデントです。それを手にした者は稲妻を操ることができるのです。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dead_Water/scenarios/03_Wolf_Coast.cfg:286
 msgid "The trident is 14-2, magical, ranged, with 'fire' damage."
-msgstr ""
+msgstr "このトライデントの攻撃範囲は投射です。火炎型の魔法ダメージ 14-2 を与えます。"
 
 #. [option]: speaker=$unit.id
 #: data/campaigns/Dead_Water/scenarios/03_Wolf_Coast.cfg:293
@@ -738,12 +738,12 @@ msgstr ""
 #. [option]: speaker=$unit.id
 #: data/campaigns/Dead_Water/scenarios/03_Wolf_Coast.cfg:340
 msgid "Let me have that trident. I want to control lightning!"
-msgstr ""
+msgstr "トライデントを手に入れるぞ。稲妻を操ってみたい！"
 
 #. [option]: speaker=$unit.id
 #: data/campaigns/Dead_Water/scenarios/03_Wolf_Coast.cfg:349
 msgid "I'll just leave that trident where it is."
-msgstr ""
+msgstr "このトライデントはこのまま置いておこう。"
 
 #. [scenario]: id=04_Slavers
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:33
