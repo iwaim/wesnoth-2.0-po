@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Wesnoth - Dead Water\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-08-13 11:31+0200\n"
-"PO-Revision-Date: 2010-08-20 01:47+0900\n"
+"PO-Revision-Date: 2010-08-20 15:27+0900\n"
 "Last-Translator: IWAI Masaharu <iwaim.sub@gmail.com>\n"
 "Language-Team: Japanese <iwaim.sub+wesnoth@gmail.com>\n"
 "Language: \n"
@@ -755,7 +755,7 @@ msgstr ""
 msgid ""
 "Now, they were farther away from home than most merfolk ever went. Only "
 "Cylanna and a few soldiers had been farther."
-msgstr ""
+msgstr "今、彼らはマーフォークの歴史の中でも最も住み処より離れたところに到着しました。今まで、ここまで遠くに辿り着いたのは Cylanna と数人の兵士のみだったのです。"
 
 #. [side]
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:105
@@ -792,7 +792,7 @@ msgstr "Aglizix"
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:334
 msgid "There are cages on the shore. I wonder why."
-msgstr ""
+msgstr "海岸に檻があるぞ。どうしたことだ？"
 
 #. [unit]: type=Merman Brawler, id=Teeloa
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:347
@@ -802,12 +802,12 @@ msgstr "Teelöa"
 #. [message]: speaker=Teeloa
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:361
 msgid "Help! Save me!"
-msgstr ""
+msgstr "助けて！ぼくを救って！"
 
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:366
 msgid "Who are you? What is happening?"
-msgstr ""
+msgstr "誰だ？何が起こったんだ？"
 
 #. [message]: speaker=Teeloa
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:371
@@ -815,19 +815,19 @@ msgid ""
 "My name is Teelöa. I have been a slave to these saurians for almost two "
 "years. I saw you coming up the coast in strength, so I fled. They follow in "
 "my wake, and without your protection they will surely kill me."
-msgstr ""
+msgstr "ぼくは Teelöa。ここのトカゲに 2年近く奴隷にされているんだ。君たちの強さを海岸でみたので逃げ出してきたんだ。気づかれたら奴らはおっかけてくる。君たちの助けがなければ ぼくは殺されちゃう。"
 
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:376
 msgid "A slave!"
-msgstr ""
+msgstr "奴隷だと！"
 
 #. [message]: speaker=Gilak
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:382
 msgid ""
 "You! Merman! You have some property of oursss. Return it at once if you "
 "value your life."
-msgstr ""
+msgstr "貴様！マーマン！貴様は俺たちの所有物だ。命が惜しくばすぐに戻れ。"
 
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:387
@@ -835,19 +835,19 @@ msgid ""
 "If you mean this merman, Teelöa, he is no longer your property. No person "
 "should be the property of another. Release all your slaves, or the wrath of "
 "the merfolk will fall upon you!"
-msgstr ""
+msgstr "このマーマン Teelöa は最早お前の所有物ではない。他人を所有物にする権利なんぞ、誰も持っていないのだ。すべての奴隷を解放しろ！さもなくば、マーフォークの怒りがお前に炸裂するぞ！"
 
 #. [message]: speaker=Cylanna
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:392
 msgid "A brave and kindhearted choice! I cannot abide slavery."
-msgstr ""
+msgstr "勇敢で慈悲のある決断ですね！私は奴隷制を認めないわ。"
 
 #. [message]: speaker=Gwabbo
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:397
 msgid ""
 "Those were the words of a man, Kai Krellis, and well spoken. The folk are "
 "truly yours now."
-msgstr ""
+msgstr "これが Kai Krellis という男の素晴らしい言葉だ。民はあなたに心酔するだろう。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:404
@@ -855,47 +855,47 @@ msgid ""
 "Kai Krellis saw that it was so. The refugee merfolk, sore in their pride "
 "from fleeing their enemies, cheered his ultimatum and made ready to fight "
 "with a will."
-msgstr ""
+msgstr "Kai Krellis は感じました。敵から逃げたことでプライドが傷ついたマーフォークの難民たちは彼の最後通牒を支持し、意志をもって戦う準備をはじめました。"
 
 #. [message]: speaker=Gilak
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:410
 msgid "Foolish merman! You will sssoon wish you had minded your own affairs."
-msgstr ""
+msgstr "愚かな魚人め！貴様はすーぐに自身の過ちに気づくことになる。"
 
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:419
 msgid ""
 "Perhaps if I called out to the slaves, I could rouse them to help us fight "
 "against their captors."
-msgstr ""
+msgstr "奴隷を解放するためには、おそらくは看守と戦い、彼らを奮起させる必要があるな。"
 
 #. [message]: speaker=Gwabbo
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:429
 msgid ""
 "I think that would work. If I may make a suggestion though, I think we "
 "should wait for a more strategic moment."
-msgstr ""
+msgstr "その通りだと思う。提案するとすれば、より戦略的にタイミングを見極めた方がいいな。"
 
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:433
 msgid ""
 "Never hesitate to speak your counsel to me, Gwabbo. You have been my right "
 "arm on this journey; your courage and loyalty are well proven."
-msgstr ""
+msgstr "Gwabbo、あなたの助言に私がためらうことはない。あなたはこの旅で右腕として活躍してくれているし、あなたの勇気と忠誠心は確かなものだ。"
 
 #. [message]: speaker=Cylanna
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:437
 msgid ""
 "Those are the words of a true kai and your father’s son. I am proud of you, "
 "Krellis."
-msgstr ""
+msgstr "それこそ真の王であり、先王の息子の言葉ですわ。Krellis、私はあなたを誇りに思います。"
 
 #. [message]: speaker=Cylanna
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:443
 msgid ""
 "I believe that would work, but many of them will be killed if you do it now. "
 "It might be better to wait."
-msgstr ""
+msgstr "救出せねばなりませんが、今行くと彼らの多くが殺されてしまうでしょう。ここはしばらく待ってみた方がいいかもしれません。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:452
@@ -903,19 +903,19 @@ msgid ""
 "You can choose when the slaves come out of their villages and attack their "
 "captors. When you are ready, right click anywhere and select the slave "
 "revolt."
-msgstr ""
+msgstr "あなたは、村から奴隷を解放することと、看守を攻撃することを選択できます。準備ができたら任意の場所を右クリックして奴隷の反乱を選択してください。"
 
 #. [set_menu_item]: id=peasant_revolt_menu_option
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:467
 msgid "Inspire the slaves to revolt"
-msgstr ""
+msgstr "奴隷の反乱を扇動する"
 
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:481
 msgid ""
 "Hear this! Slaves, the merfolk have sworn war against your tormentors. If "
 "you would be free, arise and seize your liberty!"
-msgstr ""
+msgstr "奴隷たちよ！我々マーフォークは、お前たちを捕らえる者どもに宣戦布告した。自由を求めるならば決起し自由を勝ち取れ！"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:520
@@ -923,17 +923,17 @@ msgid ""
 "Cheers erupted from several villages, and former slaves rushed out with "
 "whatever meager weapons they could find, or fists and rocks if no weapons "
 "were to hand. Screams and curses came from the saurian castles."
-msgstr ""
+msgstr "いくつかの村から雄叫びがあがりました。ある者は手近にあったものを貧弱な武器として、また武器になるようなものがなかった者は石やその拳を武器として、かつての奴隷たちは決起しました。トカゲの城からは悲鳴と呪いの言葉があがりました。"
 
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:558
 msgid "There is a treasure chest there! Good bat!"
-msgstr ""
+msgstr "宝箱を発見したか！偉いコウモリだ！"
 
 #. [message]: speaker=unit
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:564
 msgid "There is a treasure chest here!"
-msgstr ""
+msgstr "宝箱を発見した！"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:577
@@ -958,19 +958,19 @@ msgstr ""
 msgid ""
 "This must be a drake. I am told they are honorable creatures. I am going to "
 "let him out of the cage."
-msgstr ""
+msgstr "これがドレークか。彼らは尊敬すべき種族であるときいている。檻から助け出さねばならない。"
 
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:621
 msgid ""
 "That must be a drake. I am told they are fearsome, but honorable, creatures. "
 "Let him out of the cage."
-msgstr ""
+msgstr "これがドレークか。彼らは恐ろしいが、尊敬すべき種族であるときいている。檻から助け出さねばならない。"
 
 #. [message]: speaker=unit
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:625
 msgid "Uh...If you say so."
-msgstr ""
+msgstr "うーん……あなたがそう言うのであれば。"
 
 #. [unit]: type=Drake Burner, id=Keshan
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:637
@@ -980,17 +980,17 @@ msgstr "Keshan"
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:651
 msgid "What is your name?"
-msgstr ""
+msgstr "貴君の名前は？"
 
 #. [message]: speaker=Keshan
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:656
 msgid "I am Keshan."
-msgstr ""
+msgstr "Keshan だ。"
 
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:661
 msgid "How did you come to be in a cage?"
-msgstr ""
+msgstr "どうして檻に入れられていたのだ？"
 
 #. [message]: speaker=Keshan
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:666
