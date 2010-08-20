@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Wesnoth - Dead Water\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-08-13 11:31+0200\n"
-"PO-Revision-Date: 2010-08-20 15:27+0900\n"
+"PO-Revision-Date: 2010-08-21 03:04+0900\n"
 "Last-Translator: IWAI Masaharu <iwaim.sub@gmail.com>\n"
 "Language-Team: Japanese <iwaim.sub+wesnoth@gmail.com>\n"
 "Language: \n"
@@ -748,7 +748,7 @@ msgstr "このトライデントはこのまま置いておこう。"
 #. [scenario]: id=04_Slavers
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:33
 msgid "Slavers"
-msgstr ""
+msgstr "奴隷たち"
 
 #. [part]
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:41
@@ -997,36 +997,36 @@ msgstr "どうして檻に入れられていたのだ？"
 msgid ""
 "I was hunting north of here when the small ones captured me. I killed many, "
 "but I was humiliated in the end."
-msgstr ""
+msgstr "私はここから北の地で狩りをしていた。その時、小さき者どもが私を捕らえたのだ。たくさんの奴らを殺したが、最後には屈辱的な結果が待っていた。"
 
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:671
 msgid "Will you fight with us, Keshan?"
-msgstr ""
+msgstr "Keshan よ、我々と共に戦うか？"
 
 #. [message]: speaker=Keshan
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:676
 msgid "You have released me, so I owe you a great debt. I will fight with you."
-msgstr ""
+msgstr "あなたは私を助け出してくれた。この恩はとても大きい。私はあなたと共に戦うぞ。"
 
 #. [message]: speaker=Gwabbo
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:681
 msgid ""
 "Don't let him go too crazy. Those saurian spears will go right through his "
 "scales."
-msgstr ""
+msgstr "彼に無茶をさせてはならない。トカゲたちの槍は彼の鱗を容易にすり抜けてしまうぞ。"
 
 #. [unit]: type=Poacher, id=Siddry
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:700
 msgid "Siddry"
-msgstr ""
+msgstr "Siddry"
 
 #. [message]: speaker=Kai Krellis
 #. [message]: speaker=unit
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:724
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:730
 msgid "Who are you, and what are you doing in a cage?"
-msgstr ""
+msgstr "あなたは誰？何故檻の中にいる？"
 
 #. [message]: speaker=Siddry
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:737
@@ -1061,7 +1061,7 @@ msgstr ""
 msgid ""
 "Kai Krellis, you have freed us, and we are forever in your debt. How can we "
 "repay you?"
-msgstr ""
+msgstr "Kai Krellis、貴方は私たちを解放してくれた。私たちはこの恩を永遠に忘れないだろう。どのようにしてこの恩を返せばいいだろうか？"
 
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:772
