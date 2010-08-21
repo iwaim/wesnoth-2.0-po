@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Wesnoth - Dead Water\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-08-13 11:31+0200\n"
-"PO-Revision-Date: 2010-08-21 03:04+0900\n"
+"PO-Revision-Date: 2010-08-21 17:47+0900\n"
 "Last-Translator: IWAI Masaharu <iwaim.sub@gmail.com>\n"
 "Language-Team: Japanese <iwaim.sub+wesnoth@gmail.com>\n"
 "Language: \n"
@@ -1030,16 +1030,17 @@ msgstr "あなたは誰？何故檻の中にいる？"
 
 #. [message]: speaker=Siddry
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:737
+#, fuzzy
 msgid ""
 "My name is Siddry. These cursed saurians nabbed me a week ago — wanted me to "
 "turn overseer to their other slaves. I wouldn't do it, so they caged me with "
 "them. They tried to take my bow too, but they had some trouble with that."
-msgstr ""
+msgstr "Siddry だ。1週間前に忌々しいトカゲどもが俺を捕らえやがった。— wanted me to turn overseer to their other slaves.俺はそうしないだろうから、奴らは俺を檻に入れた。奴らは俺の弓も取り上げようとしたが、何か問題が発生してそれはできなかったようだ。"
 
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:742
 msgid "So you will help us defeat them?"
-msgstr ""
+msgstr "お前は奴らを打ち負かすために我々と共に戦うか？"
 
 #. [message]: speaker=Siddry
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:747
@@ -1048,13 +1049,13 @@ msgid ""
 "than to put their slavery to an end. I can't swim, so I won't be able to "
 "come with you on your travels, but I will owe you. If there is anything I "
 "can do in the future, I will do it."
-msgstr ""
+msgstr "あんたが俺を助けてくれるならそうするよ。俺は奴隷制度を終わらせることが一番の望みだ。だが、俺は泳げない。その後のあんたの旅に着いていくことはできんが、恩義は忘れんぞ。将来、何か手伝えることがあるなら手伝うぞ。"
 
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:752
 msgid ""
 "Well met, then, friend. I am Kai Krellis, leader of the people of Jotha."
-msgstr ""
+msgstr "ああ、友よ。私は Jotha の民の指導者 Kai Krellis だ。"
 
 #. [message]
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:767
@@ -1069,12 +1070,12 @@ msgid ""
 "I will not ask you to follow me. You have suffered enough for the benefit of "
 "others. Go back to your families if you have them, and work for yourselves "
 "from now on."
-msgstr ""
+msgstr "私に着いてくる必要はない。あなたたちは他人によって十分に苦しめられた。家族がいる者は家族の元へ戻るのだ。そして、今からは自分自身のために生きよ。"
 
 #. [scenario]: id=05_Tirigaz
 #: data/campaigns/Dead_Water/scenarios/05_Tirigaz.cfg:23
 msgid "Tirigaz"
-msgstr ""
+msgstr "Tirigaz"
 
 #. [part]
 #: data/campaigns/Dead_Water/scenarios/05_Tirigaz.cfg:31
@@ -1092,7 +1093,7 @@ msgstr "アンデッドをすべて破壊する"
 #. [objective]: condition=win
 #: data/campaigns/Dead_Water/scenarios/05_Tirigaz.cfg:96
 msgid "(you can destroy the undead first)"
-msgstr ""
+msgstr "（アンデッドを先に滅ぼす必要があります）"
 
 #. [objective]: condition=win
 #: data/campaigns/Dead_Water/scenarios/05_Tirigaz.cfg:96
@@ -1117,7 +1118,7 @@ msgstr ""
 #. [message]: speaker=ghost scout
 #: data/campaigns/Dead_Water/scenarios/05_Tirigaz.cfg:250
 msgid "Found. Them."
-msgstr ""
+msgstr "見つけた。奴らだ。"
 
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/05_Tirigaz.cfg:364
@@ -1228,14 +1229,14 @@ msgstr ""
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/05_Tirigaz.cfg:680
 msgid "We have destroyed the undead."
-msgstr ""
+msgstr "アンデッドを滅ぼしたぞ。"
 
 #. [option]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/05_Tirigaz.cfg:691
 msgid ""
 "This orc leader has not learned that threatening merfolk is a bad idea. We "
 "shall defeat him before we go."
-msgstr ""
+msgstr "このオークの指導者は、マーフォークは脅迫できるという悪い考えを覚えてしまった。我々はこの地を離れる前に奴を倒してしまうべきだ。"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Dead_Water/scenarios/05_Tirigaz.cfg:716
