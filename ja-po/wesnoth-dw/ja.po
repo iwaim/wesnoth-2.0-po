@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Wesnoth - Dead Water\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-08-30 11:56+0200\n"
-"PO-Revision-Date: 2010-08-28 05:13+0900\n"
+"PO-Revision-Date: 2010-08-31 05:01+0900\n"
 "Last-Translator: IWAI Masaharu <iwaim.sub@gmail.com>\n"
 "Language-Team: Japanese <iwaim.sub+wesnoth@gmail.com>\n"
 "MIME-Version: 1.0\n"
@@ -66,9 +66,8 @@ msgstr "トリトン"
 
 #. [campaign]: id=Dead_Water
 #: data/campaigns/Dead_Water/_main.cfg:21
-#, fuzzy
 msgid "(Intermediate level, 10 scenarios.)"
-msgstr "（中級者レベル、13シナリオ）"
+msgstr "（中級者レベル、10シナリオ）"
 
 #. [campaign]: id=Dead_Water
 #: data/campaigns/Dead_Water/_main.cfg:21
@@ -1145,7 +1144,6 @@ msgstr "お前は奴らを打ち負かすために我々と共に戦うか？"
 
 #. [message]: speaker=Siddry
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:748
-#, fuzzy
 msgid ""
 "The way I see it, you're helping me. There is nothing I would like better "
 "than to put their slavery to an end. I can't swim, so I won’t be able to "
