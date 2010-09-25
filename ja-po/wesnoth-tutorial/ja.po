@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth 1.9-svn\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-09-15 19:36+0200\n"
-"PO-Revision-Date: 2010-09-26 06:49+0900\n"
+"PO-Revision-Date: 2010-09-26 08:00+0900\n"
 "Last-Translator: IWAI, Masaharu <iwaim.sub@gmail.com>\n"
 "Language-Team: Japanese Translation Team\n"
 "MIME-Version: 1.0\n"
@@ -192,8 +192,8 @@ msgid ""
 "You moved to the wrong place! After this message, you can press <b>u</b> to "
 "undo, then try again."
 msgstr ""
-"間違った場所に移動しました！ このメッセージを閉じたあと、<b>「u」</b>を押して"
-"やり直してください。では、もう一度。"
+"間違った場所に移動しました！ このメッセージを閉じたあと、<b>u</b> を押してや"
+"り直してください。では、もう一度。"
 
 #. [message]: id=student
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:314
@@ -250,7 +250,7 @@ msgstr ""
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:382
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:388
 msgid "Attacking"
-msgstr ""
+msgstr "攻撃"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:384
@@ -303,7 +303,7 @@ msgstr "よい考えだ！"
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:453
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:457
 msgid "Crowns"
-msgstr ""
+msgstr "王冠"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:454
@@ -499,7 +499,7 @@ msgstr "Li’sar を主塔に移動させてください"
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:644
 msgid "Recruiting"
-msgstr ""
+msgstr "雇用"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:646
@@ -509,8 +509,8 @@ msgid ""
 "you will only be given one type of unit to choose: the Elvish Fighter."
 msgstr ""
 "<i>主塔</i>にいるときには、いつでもその周りにある城のタイルにユニットを<i>雇"
-"用する</i>ことができます。城のタイルを右クリックして<b>「雇用する」</b>を選択"
-"します。今回はユニットの選択肢は「エルフの戦士」の 1 種類しかありません。"
+"用する</i>ことができます。城のタイルを右クリックして<b>雇用する</b>を選択しま"
+"す。今回はユニットの選択肢は「エルフの戦士」の 1 種類しかありません。"
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:650
@@ -521,7 +521,7 @@ msgstr "城のタイルを右クリックして<b>「雇用する」</b>を選�
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:684
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:717
 msgid "New Recruits"
-msgstr ""
+msgstr "新規雇用"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:687
@@ -532,8 +532,10 @@ msgid ""
 "After this dialog, you can move the mouse over a unit to see a summary of "
 "its abilities on the right of the screen."
 msgstr ""
-"ユニットについての概要を確認することができます。詳細は画面の右側に表示されま"
-"す。<"
+"新しく雇用したユニットは登場したターンには行動できません。次のターンに操作で"
+"きるようになります。\n"
+"このダイアログを閉じ、ユニットの上にマウスをもっていくと、ユニットについての"
+"概要を確認することができます。詳細は画面の右側に表示されます。"
 
 #. [else]
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:698
@@ -681,19 +683,19 @@ msgstr "おそらくエルフをもう一人雇用した方がよいのではな
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:964
 msgid "Unit Descriptions"
-msgstr ""
+msgstr "ユニットの解説"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:966
 msgid ""
 "You can right click on a unit to see a detailed <b>Unit Description</b>."
 msgstr ""
-"ユニットを右クリックして<b>ユニットの詳細</b>を確認することができます。"
+"ユニットを右クリックして<b>ユニットの解説</b>を確認することができます。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:987
 msgid "Protect Your Troops"
-msgstr ""
+msgstr "軍団の保護"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:989
@@ -709,7 +711,7 @@ msgstr ""
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:1006
 msgid "Support"
-msgstr ""
+msgstr "維持"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:1008
@@ -724,7 +726,7 @@ msgstr ""
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:1023
 msgid "Advancement"
-msgstr ""
+msgstr "昇格"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:1025
@@ -745,7 +747,7 @@ msgstr ""
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:1040
 msgid "Defenses"
-msgstr ""
+msgstr "防御"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:1043
@@ -797,7 +799,7 @@ msgstr ""
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:1115
 msgid "Note"
-msgstr ""
+msgstr "メモ"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:1117
@@ -826,7 +828,7 @@ msgstr "いいえ、もう習得しました。"
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:1172
 msgid "Victory"
-msgstr ""
+msgstr "勝利"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:1173
@@ -845,7 +847,7 @@ msgstr ""
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/2_Speaking.cfg:30
 msgid "Undo"
-msgstr ""
+msgstr "アンドゥ"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/2_Speaking.cfg:31
@@ -853,8 +855,8 @@ msgid ""
 "Don’t forget, you can press <b>u</b> to undo most things; useful for "
 "correcting mistakes."
 msgstr ""
-"覚えておいてください。<b>「u」</b>キーを押してほとんどのことを取り消すことが"
-"できます。間違いをやりなおすときに使えます。"
+"覚えておいてください。<b>u</b> を押してほとんどのことを取り消すことができま"
+"す。間違いをやりなおすときに使えます。"
 
 #. [unit]: id=Galdrad, type=Elvish Captain
 #. [message]: speaker=narrator
@@ -914,7 +916,7 @@ msgid ""
 msgstr ""
 "少し助けがあれば可能です。呪術師を防御しているユニットの隣に置けば、1 ターン"
 "ごとにヒットポイントが 4 回復するでしょう。ただ、呪術師が攻撃されないように注"
-"意してください。呪術師は一人ではとても弱いですから。"
+"意してください。呪術師は 1人ではとても弱いですから。"
 
 #. [then]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:29
@@ -936,7 +938,7 @@ msgid ""
 "That unit is about one kill (8 experience points) away from gaining a level! "
 "Do not let it die!"
 msgstr ""
-"そのユニットは、敵をあと一人分（8 経験値）倒すとレベルが上がります！ 死なせて"
+"そのユニットは、敵をあと 1人分（8 経験値）倒すとレベルが上がります！ 死なせて"
 "はなりません！"
 
 #. [message]: speaker=second_unit
@@ -1412,7 +1414,7 @@ msgstr "射手でオークを攻撃してください"
 #. [event]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:915
 msgid "<big>Unit Summaries</big>"
-msgstr ""
+msgstr "<big>ユニットの概要</big>"
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:916
@@ -1421,6 +1423,10 @@ msgid ""
 "To review the capabilities of any unit—including an enemy—hover the mouse "
 "over it, and you will see a unit summary on the right of the screen"
 msgstr ""
+"\n"
+"（敵のユニットも含め）あるユニットがどのような能力を持っているのかを知るため"
+"には、そのユニットにマウスを乗せてください。画面の右側にユニットの概要が表示"
+"されます。"
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:924
@@ -1464,7 +1470,7 @@ msgstr ""
 #. [event]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:953
 msgid "<big>Long-distance Movement</big>"
-msgstr ""
+msgstr "<big>長距離の移動</big>"
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:954
@@ -1562,8 +1568,8 @@ msgid ""
 msgstr ""
 "できません。いったん敵のユニットの隣に移動すると、敵ユニットの<i>支配ゾーン</"
 "i>に入り、そのターンにはそれ以上移動できなくなるのです。\n"
-"あなたの部隊を水の中を素早く動いて島に移動させるためには、兵卒を殺さなければ"
-"なりません。"
+"あなたの部隊が水の中をノロノロ動かずに島に移動させるためには、兵卒を殺さなけ"
+"ればなりません。"
 
 #. [then]
 #. [event]
@@ -1656,7 +1662,7 @@ msgstr ""
 #. [event]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1161
 msgid "<big>Time of Day</big>"
-msgstr ""
+msgstr "<big>一日の時間帯</big>"
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1162
@@ -1699,7 +1705,7 @@ msgstr ""
 #. [event]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1183
 msgid "<big>Tracking Unused Units</big>"
-msgstr ""
+msgstr "<big>未行動ユニットを調べる</big>"
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1184
@@ -1721,7 +1727,7 @@ msgstr ""
 #. [event]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1189
 msgid "<big>Victory Conditions</big>"
-msgstr ""
+msgstr "<big>勝利条件</big>"
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1190
@@ -1731,11 +1737,14 @@ msgid ""
 "conditions for a scenario are given under <b>Scenario Objectives</b> in the "
 "<b>Main Menu</b>)."
 msgstr ""
+"\n"
+"このシナリオであなたが勝利するためにはオークのリーダーを倒すだけです。（<b>メ"
+"ニュー</b>の<b>シナリオの目標</b>にシナリオの勝利条件があります）"
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1195
 msgid "<big>Recruit the Right Unit Types</big>"
-msgstr ""
+msgstr "<big>有利なユニットの雇用</big>"
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1196
@@ -1844,7 +1853,7 @@ msgstr ""
 #. [then]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1391
 msgid "<big>Tracking Enemy Movement</big>"
-msgstr ""
+msgstr "<big>敵の移動範囲の調査</big>"
 
 #. [then]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1392
