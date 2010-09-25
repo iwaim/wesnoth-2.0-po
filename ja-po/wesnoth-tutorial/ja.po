@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth 1.9-svn\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-09-15 19:36+0200\n"
-"PO-Revision-Date: 2010-09-26 03:56+0900\n"
+"PO-Revision-Date: 2010-09-26 06:49+0900\n"
 "Last-Translator: IWAI, Masaharu <iwaim.sub@gmail.com>\n"
 "Language-Team: Japanese Translation Team\n"
 "MIME-Version: 1.0\n"
@@ -749,7 +749,6 @@ msgstr ""
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:1043
-#, fuzzy
 msgid ""
 "Whenever one of your units is selected, you’ll see varying percentages as "
 "you move the mouse over the map. The higher the percentage, the more "
@@ -758,11 +757,11 @@ msgid ""
 "rivers. However, these quintains use a <i>magical</i> attack, which always "
 "has a 70% chance of hitting no matter what terrain its target occupies."
 msgstr ""
-"メモ：\n"
-"ユニットを選択すると、場所ごとに異なるパーセンテージが表示されるのに気がつく"
-"でしょう。この数値が高いほど防御できる確率が高くなります。例えば、城や村では"
-"防御力が高く、川の中では低くなります。しかしながら、このダミーの攻撃は魔法攻"
-"撃なので、あなたがどこにいても 70% の確率で攻撃が命中します。"
+"あなたのユニットを選択し、マップ上でマウスを動かすごとに異なるパーセンテージ"
+"が表示されます。この数値は地形の種類によって決まっており、高いほど<i>防御</i>"
+"できる確率が上がります。例えば、大抵のユニットは城や村では防御力が高く、川の"
+"中では低くなります。しかしながら、このクィンティンの攻撃は<i>魔法</i>攻撃なの"
+"で、あなたがどんな地形にいても 70% の確率で攻撃が命中します。"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:1068
@@ -1704,7 +1703,6 @@ msgstr ""
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1184
-#, fuzzy
 msgid ""
 "\n"
 "You can ensure you use all your troops by pressing <b>n</b> to step from one "
@@ -1713,11 +1711,12 @@ msgid ""
 "accident later on. When <b>n</b> no longer selects a new unit, it’s safe to "
 "end your turn."
 msgstr ""
-"すべてのユニットをこのターンに行動させたかを確かめることができます。それには"
-"「n」キーを押して次のユニットを表示するか、スペースキーを押してすべて行動させ"
-"終わったかを表示させることができます。\n"
-"「n」キーを押しても新しいユニットが選択されなければ、ターンを終了させることが"
-"できます。"
+"\n"
+"<b>n</b> を押すごとにあなたの軍団のユニットを 1体ずつ順番に辿ることができま"
+"す。<b>space</b> を押せばそのときに選択しているユニットがそのターンでの役割が"
+"終わったと印をつけることができ、後で不用意に移動させてしまうことを防ぐことが"
+"できます。<b>n</b> を押しても次のユニットが選択できなくなってから、あなたの"
+"ターンを終了させると安全です。"
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1189
