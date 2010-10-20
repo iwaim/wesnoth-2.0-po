@@ -12,14 +12,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth 1.8.4+svn\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2010-10-19 12:43+0200\n"
-"PO-Revision-Date: 2010-08-18 03:40+0900\n"
+"POT-Creation-Date: 2010-10-19 12:51+0200\n"
+"PO-Revision-Date: 2010-10-20 18:00+0900\n"
 "Last-Translator: IWAI, Masaharu <iwaim.sub@gmail.com>\n"
 "Language-Team: Japanese Translation Team\n"
-"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #. [unit_type]: id=Blood Bat, race=bats
@@ -424,7 +424,6 @@ msgstr "ドレークフレイムハート"
 
 #. [unit_type]: id=Drake Flameheart, race=drake
 #: data/core/units/drakes/Flameheart.cfg:27
-#, fuzzy
 msgid ""
 "Flamehearts lack the strength to defeat other high-ranking drakes in single "
 "combat, but prefer in any case to avoid confrontation within the tribe. "
@@ -824,7 +823,6 @@ msgstr "ドワーフの先導者"
 
 #. [unit_type]: id=Dwarvish Pathfinder, race=dwarf
 #: data/core/units/dwarves/Pathfinder.cfg:18
-#, fuzzy
 msgid ""
 "These hardy dwarves are sometimes away from their caves for long periods, "
 "scouting and patrolling the borders. They spend this time watching for "
@@ -1334,7 +1332,6 @@ msgstr "エルフの射撃手"
 
 #. [unit_type]: id=Elvish Marksman, race=elf
 #: data/core/units/elves/Marksman.cfg:20
-#, fuzzy
 msgid ""
 "Elves are wonderously keen-sighted, a gift which contributes to their "
 "mastery of the bow. An elf practiced at archery can hit targets that a man "
@@ -1342,10 +1339,11 @@ msgid ""
 "is let fly. Realizing this prodigious skill does come with one cost, that "
 "being a lack of practice with the sword."
 msgstr ""
-"エルフ族は驚くほど目が良く、この賜物は彼らの弓の技能に貢献します。弓術士とし"
-"て訓練されたエルフは、例え夜であっても人間が見えないような標的に命中させるこ"
-"とができ、一矢目が射たれるとほぼ同時に二本目の矢をつがえることができます。こ"
-"の驚異的な技能は、剣の練習不足という一つの犠牲を伴います。"
+"エルフ族は驚くほど目が良いことで知られています。この特長は彼らの弓の技能に貢"
+"献します。射撃手として訓練されたエルフは、たとえ夜中であっても、人間族には見"
+"ることができないような標的に命中させることができ、一矢目が射たれるとほぼ同時"
+"に二本目の矢をつがえることができます。この驚異的な技能と引き換えに、剣術の鍛"
+"錬は不足してしまいます。"
 
 #. [attack]: type=pierce
 #: data/core/units/elves/Marksman.cfg:73
@@ -1529,16 +1527,15 @@ msgstr "エルフのシェード"
 
 #. [unit_type]: id=Elvish Shyde, race=elf
 #: data/core/units/elves/Shyde.cfg:22
-#, fuzzy
 msgid ""
 "Devotion to the path of faerie may eventually transform an elf maiden into a "
 "creature of both worlds. Guided by a power which is little understood, these "
 "beautiful stewards of the elven forests epitomize the grace and mystery of "
 "their people."
 msgstr ""
-"妖精の道への傾倒は、最終的にはエルフの処女を両方の世界の生き物へと変身させる"
-"でしょう。ほとんど理解されていない自然現象に導かれたこの美しいエルフの森の執"
-"事は、エルフ達の優雅さと神秘の典型であります。"
+"妖精への道に傾倒したエルフの処女は、最終的には両方の世界で生きるようになりま"
+"す。ほとんど解明されていない力によって導かれたこの美しい森の執事は、エルフ族"
+"の優雅さと神秘の典型でもあります。"
 
 #. [attack]: type=impact
 #: data/core/units/elves/Shyde.cfg:41 data/core/units/elves/Sylph.cfg:40
@@ -3194,7 +3191,6 @@ msgstr "レンジャー"
 
 #. [unit_type]: id=Ranger, race=human
 #: data/core/units/humans/Woodsman_Ranger.cfg:23
-#, fuzzy
 msgid ""
 "Rangers are wild men and wanderers, who have chosen to shun the company of "
 "their fellow men for myriad reasons. They have spent the better part of "
@@ -3614,9 +3610,8 @@ msgstr "尾"
 
 #. [unit_type]: id=Fire Guardian, race=monster
 #: data/core/units/monsters/Fire_Guardian.cfg:4
-#, fuzzy
 msgid "Fire Guardian"
-msgstr "ファイアドラゴン"
+msgstr "炎の守護者"
 
 #. [unit_type]: id=Fire Guardian, race=monster
 #: data/core/units/monsters/Fire_Guardian.cfg:28
@@ -3626,12 +3621,15 @@ msgid ""
 "their bidding. When not being controlled they like to frolic in pools of "
 "lava and take great delight in burning anything they can reach."
 msgstr ""
+"炎の守護者は煙と火炎の精霊です。どこからやってくるのかは誰も確信していません"
+"が、時折、強力な魔法使いによって召喚され、その命令に従います。制御から外れた"
+"炎の守護者は、溶岩のプールで戯れ、触れるものを何でも燃やしてしまうことに、大"
+"いなる喜びを感じているようです。"
 
 #. [attack]: type=fire
 #: data/core/units/monsters/Fire_Guardian.cfg:31
-#, fuzzy
 msgid "fire claws"
-msgstr "かぎ爪"
+msgstr "炎の爪"
 
 #. [unit_type]: id=Giant Mudcrawler, race=monster
 #: data/core/units/monsters/Giant_Mudcrawler.cfg:4
@@ -3667,7 +3665,7 @@ msgstr "泥のしずく"
 #. [unit_type]: id=Giant Rat, race=monster
 #: data/core/units/monsters/Giant_Rat.cfg:4
 msgid "Giant Rat"
-msgstr ""
+msgstr "大ネズミ"
 
 #. [unit_type]: id=Giant Rat, race=monster
 #: data/core/units/monsters/Giant_Rat.cfg:18
@@ -3675,6 +3673,8 @@ msgid ""
 "Given an adequate supply of food, some rats can grow to truly impressive "
 "sizes. They can also grow quite aggressive."
 msgstr ""
+"食料に恵まれたネズミの中には、本当に印象深いほど大きく成長します。そのような"
+"ネズミは大変攻撃的な性質も持つこととなります。"
 
 #. [unit_type]: id=Giant Scorpion, race=monster
 #: data/core/units/monsters/Giant_Scorpion.cfg:4
@@ -4468,7 +4468,7 @@ msgstr ""
 #. [unit_type]: id=Ghast, race=undead
 #: data/core/units/undead/Corpse_Ghast.cfg:4
 msgid "Ghast"
-msgstr ""
+msgstr "ガスト"
 
 #. [unit_type]: id=Ghast, race=undead
 #: data/core/units/undead/Corpse_Ghast.cfg:20
@@ -4480,6 +4480,10 @@ msgid ""
 "flesh straight from their foes. Once their enemy is defeated, they eat the "
 "rest of the body, gaining strength in the process."
 msgstr ""
+"ガストは、人類の最悪の悪夢から生み出されました。わずかに存在する同類のグール"
+"やネクロファージとは異なり、犠牲者が毒で死ぬのを待つまでもなく、その肉体をむ"
+"さぼるのです。その大きな口で直接攻撃し、力で肉を切り裂こうとしてきます。そし"
+"て、敵を倒すと、力ずくで肉体の残り部分を食べます。"
 
 #. [unit_type]: id=Ghoul, race=undead
 #: data/core/units/undead/Corpse_Ghoul.cfg:4
@@ -4898,7 +4902,6 @@ msgstr "レブナント"
 
 #. [unit_type]: id=Revenant, race=undead
 #: data/core/units/undead/Skele_Revenant.cfg:19
-#, fuzzy
 msgid ""
 "Given false life to do battle once more, the creatures known as Revenants "
 "were clearly great warriors in their time, though the memory of that time is "
