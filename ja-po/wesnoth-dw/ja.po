@@ -4,14 +4,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Wesnoth - Dead Water\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2010-09-15 19:36+0200\n"
-"PO-Revision-Date: 2010-10-03 15:31+0900\n"
+"POT-Creation-Date: 2010-10-19 12:43+0200\n"
+"PO-Revision-Date: 2010-10-14 16:39+0900\n"
 "Last-Translator: IWAI Masaharu <iwaim.sub@gmail.com>\n"
 "Language-Team: Japanese <iwaim.sub+wesnoth@gmail.com>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: \n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #. [campaign]: id=Dead_Water
@@ -366,15 +366,15 @@ msgstr "逃走"
 msgid ""
 "Kai Krellis was concerned that the undead might return, so he determined to "
 "learn as much as possible about them. His only clue was the name the "
-"necromancer had spoken: “Lord Ravanal”. He sent his swiftest scouts north "
-"and south along the coast to learn what they might about this Ravanal. The "
-"news they brought him was not good."
+"necromancer had spoken: <i>“Lord Ravanal”</i>. He sent his swiftest scouts "
+"north and south along the coast to learn what they might about this Ravanal. "
+"The news they brought him was not good."
 msgstr ""
 "Kai Krellis はアンデッドが引き返してくることを心配していたので、アンデッドに"
 "ついてできる限りの情報を集めようとしました。唯一の手がかりは降霊術師が口にし"
-"ていた“Ravanal 卿”という名前のみでした。彼は、この Ravanal についての情報を得"
-"るために、一番俊敏な偵察隊を北と南の沿岸沿いに派遣しました。そして、不吉な知"
-"らせがもたらされました。"
+"ていた<i>“Ravanal 卿”</i>という名前のみでした。彼は、この Ravanal についての"
+"情報を得るために、一番俊敏な偵察隊を北と南の沿岸沿いに派遣しました。そして、"
+"不吉な知らせがもたらされました。"
 
 #. [part]
 #: data/campaigns/Dead_Water/scenarios/02_Flight.cfg:39
@@ -1306,13 +1306,13 @@ msgstr ""
 
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/05_Tirigaz.cfg:415
-msgid " We can decide what to do about the orc after that."
+msgid ""
+"One hour will work for us. It will not take all of us to defeat the undead. "
 msgstr ""
 
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/05_Tirigaz.cfg:415
-msgid ""
-"One hour will work for us. It will not take all of us to defeat the undead."
+msgid "We can decide what to do about the orc after that."
 msgstr ""
 
 #. [message]: speaker=narrator
@@ -2715,30 +2715,6 @@ msgstr ""
 "ほとんどのマーマンは平和主義者ですが、住処を守るためには戦います。このような"
 "状況下では、武器も持たず訓練も積んでいないマーマンでさえ脅威となり得ます。"
 
-#. [unit_type]: id=Fire Guardian, race=monster
-#: data/campaigns/Dead_Water/units/Fire_Guardian.cfg:4
-msgid "Fire Guardian"
-msgstr "炎の守護者"
-
-#. [unit_type]: id=Fire Guardian, race=monster
-#: data/campaigns/Dead_Water/units/Fire_Guardian.cfg:26
-msgid ""
-"Fire Guardians are spirits of smoke and flame. No one is exactly sure where "
-"they come from, but they are occasionally summoned by powerful mages to do "
-"their bidding. When not being controlled they like to frolic in pools of "
-"lava and take great delight in burning anything they can reach."
-msgstr ""
-
-#. [attack]: type=fire
-#: data/campaigns/Dead_Water/units/Fire_Guardian.cfg:29
-msgid "fire claws"
-msgstr "炎の鉤爪"
-
-#. [attack]: type=fire
-#: data/campaigns/Dead_Water/units/Fire_Guardian.cfg:38
-msgid "fire breath"
-msgstr "炎の吐息"
-
 #. [unit_type]: id=Kraken, race=monster
 #: data/campaigns/Dead_Water/units/Kraken.cfg:5
 msgid "Kraken"
@@ -2955,3 +2931,12 @@ msgid ""
 msgstr ""
 "この攻撃を受けたユニットはしばらく支配領域 (ZoC) の維持ができないぐらいに強力"
 "な攻撃です。この効果は攻撃を受けたユニットが次のターンになるまで継続します。"
+
+#~ msgid "Fire Guardian"
+#~ msgstr "炎の守護者"
+
+#~ msgid "fire claws"
+#~ msgstr "炎の鉤爪"
+
+#~ msgid "fire breath"
+#~ msgstr "炎の吐息"
