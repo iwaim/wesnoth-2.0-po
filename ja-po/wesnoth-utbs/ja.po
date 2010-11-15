@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-11-05 17:41+0100\n"
-"PO-Revision-Date: 2010-08-29 10:23+0900\n"
+"PO-Revision-Date: 2010-11-15 19:56+0900\n"
 "Last-Translator: \n"
 "Language-Team: Japanese Translation Team\n"
 "Language: Japanese\n"
@@ -71,9 +71,8 @@ msgstr "砂漠の徘徊者"
 
 #. [campaign]: id=Under_the_Burning_Suns
 #: data/campaigns/Under_the_Burning_Suns/_main.cfg:27
-#, fuzzy
 msgid "(Expert level, 10 scenarios.)"
-msgstr "(達人レベル、１１シナリオ)"
+msgstr "（上級者レベル、10 シナリオ）"
 
 #. [campaign]: id=Under_the_Burning_Suns
 #: data/campaigns/Under_the_Burning_Suns/_main.cfg:27
@@ -91,17 +90,17 @@ msgstr ""
 #. [about]
 #: data/campaigns/Under_the_Burning_Suns/_main.cfg:31
 msgid "Campaign Design"
-msgstr "Campaign Design"
+msgstr "キャンペーンデザイン"
 
 #. [about]
 #: data/campaigns/Under_the_Burning_Suns/_main.cfg:40
 msgid "Campaign Maintenance"
-msgstr "Campaign Maintenance"
+msgstr "キャンペーンメンテナンス"
 
 #. [about]
 #: data/campaigns/Under_the_Burning_Suns/_main.cfg:61
 msgid "Artwork and Graphics Design"
-msgstr "Artwork and Graphics Design"
+msgstr "アートワークとグラフィックスデザイン"
 
 #. [about]
 #: data/campaigns/Under_the_Burning_Suns/_main.cfg:107
